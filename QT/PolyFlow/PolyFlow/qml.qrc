@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/qt/qml/polyflow">
-        <file>main.qml</file>
-    </qresource>
-</RCC>
